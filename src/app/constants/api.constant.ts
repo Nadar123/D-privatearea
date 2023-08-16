@@ -40,24 +40,6 @@ export enum API_ENDPOINTS {
   CONTRACT_OVERVIEW = '/myApartment/contractDetails',
   FINISHING_MATERIALS = '/myApartment/tenantChanges',
   SET_PASSWORD = '/user/setPassword'
-
-  //   SUBSCRIPTIONS_EDIT = '/subscriptions/edit',
-  //   SUBSCRIPTIONS_CATALOG_FETCH = '/subscriptions/catalog',
-  //   SUBSCRIPTIONS_CATALOG_ADD = '/subscriptions/catalog/add',
-  //   ADMIN_TENANTS_FETCH = '/admin/tenants',
-  //   ADMIN_TENANTS_SYNC = '/admin/tenants/sync',
-  //   ADMIN_USERS_FETCH = '/admin/users',
-  //   ADMIN_USERS_INVITE = '/admin/users/invite',
-  //   ADMIN_USERS_DELETE = '/admin/users/delete',
-  //   ADMIN_USERS_EDIT = '/admin/users/edit',
-  //   ADMIN_LOGS_ADD = '/admin/logs/add',
-  //   ADMIN_LOGS_FETCH = '/admin/logs',
-  //   ADMIN_CATALOG_MS_AND_SELECTED_FETCH = '/admin/subscriptions/catalog/ms-and-selected',
-  //   ADMIN_CATALOG_MS_FETCH = '/admin/subscriptions/catalog/ms',
-  //   ADMIN_CATALOG_FETCH = '/admin/subscriptions/catalog',
-  //   ADMIN_CATALOG_DELETE = '/admin/subscriptions/catalog/delete',
-  //   ADMIN_CATALOG_ADD = '/admin/subscriptions/catalog/add',
-  //   ADMIN_SERVICES_FETCH = '/admin/services'
 }
 
 export const ERROR_CODE = {
