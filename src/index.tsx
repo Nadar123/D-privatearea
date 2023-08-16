@@ -1,19 +1,31 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+import React from 'react'
+import { Provider } from 'react-redux'
+import ReactDOM from 'react-dom/client'
+import { BrowserRouter, RouterProvider } from 'react-router-dom'
+import { ThemeProvider } from '@mui/system'
 
-const root = ReactDOM.createRoot(
-  document.getElementById('root') as HTMLElement
-);
+import './index.css'
+import App from './app/App'
+import { store } from './app/state/store'
+import { theme } from './app/constants/theme.constants'
+
+import 'slick-carousel/slick/slick.css'
+import 'slick-carousel/slick/slick-theme.css'
+
+const root = ReactDOM.createRoot(document.getElementById('root') as HTMLElement)
 root.render(
+  // FYI: StrictMode in dev env inits components with hooks twice (https://github.com/facebook/react/issues/15074#issuecomment-471197572)
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
+    <Provider store={store}>
+      {/* <BrowserRouter> */}
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+      <ThemeProvider theme={theme}>
+        <div dir='rtl'>
+          <App />
+        </div>
+      </ThemeProvider>
+
+      {/* </BrowserRouter> */}
+    </Provider>
+  </React.StrictMode>
+)

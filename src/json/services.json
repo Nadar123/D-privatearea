@@ -1,0 +1,1491 @@
+{
+  "services": [
+    {
+      "callID": 444811,
+      "subject": "123 ניסיון עבור שאילתה",
+      "descrption": "ניסיון עבור שאילתה",
+      "createDate": "2022-08-18T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46080,
+      "subject": "דיווח על תקלה",
+      "descrption": "anna testing1",
+      "createDate": "2023-02-14T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46081,
+      "subject": "חוזים ומפרטים",
+      "descrption": "jdhgclds",
+      "createDate": "2023-02-14T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46082,
+      "subject": "חוזים ומפרטים",
+      "descrption": "cvbcvv",
+      "createDate": "2023-02-14T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46083,
+      "subject": "אחר",
+      "descrption": "טל בדיקה שירות לקוחות אחר",
+      "createDate": "2023-02-14T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46086,
+      "subject": "גביה ותקבולים",
+      "descrption": " v",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46095,
+      "subject": "חוזים ומפרטים",
+      "descrption": "cbv",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46096,
+      "subject": "חוזים ומפרטים",
+      "descrption": "cbv",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46097,
+      "subject": "גביה ותקבולים",
+      "descrption": "bbdfb",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46098,
+      "subject": "גביה ותקבולים",
+      "descrption": "bbdfb",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46102,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vbb",
+      "createDate": "2023-02-15T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46114,
+      "subject": "חוזים ומפרטים",
+      "descrption": "bv ",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46115,
+      "subject": "חוזים ומפרטים",
+      "descrption": "bv ",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46117,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vc",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46118,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vc",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46120,
+      "subject": "גביה ותקבולים",
+      "descrption": "cv",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46121,
+      "subject": "חוזים ומפרטים",
+      "descrption": "bvvb",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46133,
+      "subject": "חוזים ומפרטים",
+      "descrption": "tttttt",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46134,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vbc",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46135,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vc",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46136,
+      "subject": "חוזים ומפרטים",
+      "descrption": "vc",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46137,
+      "subject": "חוזים ומפרטים",
+      "descrption": "bvbvb",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46138,
+      "subject": "חוזים ומפרטים",
+      "descrption": "87t0",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46139,
+      "subject": "חוזים ומפרטים",
+      "descrption": "v b",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46142,
+      "subject": "חוזים ומפרטים",
+      "descrption": "k",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46143,
+      "subject": "חוזים ומפרטים",
+      "descrption": "cbncb",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-16T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46148,
+      "subject": "גביה ותקבולים",
+      "descrption": "gfg",
+      "createDate": "2023-02-16T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46155,
+      "subject": "גביה ותקבולים",
+      "descrption": "bvcbcv",
+      "createDate": "2023-02-19T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46171,
+      "subject": "חוזים ומפרטים",
+      "descrption": "123 ",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46172,
+      "subject": "גביה ותקבולים",
+      "descrption": "nadar ",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46173,
+      "subject": "חוזים ומפרטים",
+      "descrption": "123 ",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46175,
+      "subject": "גביה ותקבולים",
+      "descrption": "madar new string",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46176,
+      "subject": "חוזים ומפרטים",
+      "descrption": "789 new string",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46177,
+      "subject": "גביה ותקבולים",
+      "descrption": "g gd g gdf g gd g gdff g gd g gdf g gd g gdffd new string",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46179,
+      "subject": "חוזים ומפרטים",
+      "descrption": "456 456",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46180,
+      "subject": "משכנתאות",
+      "descrption": "000",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "משכנתאות#1",
+          "Details": "משכנתאות#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46181,
+      "subject": "מסירת דירה",
+      "descrption": "121",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46183,
+      "subject": "אתיקה",
+      "descrption": "בדיקה מהפוסטמן אנה DEV 14:44 ",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "אתיקה#1",
+          "Details": "אתיקה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "אתיקה",
+          "Details": "אתיקה",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46184,
+      "subject": "מסירת דירה",
+      "descrption": "sasa",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46185,
+      "subject": "חוזים ומפרטים",
+      "descrption": "aaa",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46187,
+      "subject": "מסירת דירה",
+      "descrption": "dan",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46189,
+      "subject": "מסירת דירה",
+      "descrption": "1123",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46190,
+      "subject": "חוזים ומפרטים",
+      "descrption": "121",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46192,
+      "subject": "מסירת דירה",
+      "descrption": "890",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46193,
+      "subject": "חוזים ומפרטים",
+      "descrption": "89",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46194,
+      "subject": "משכנתאות",
+      "descrption": "121",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "משכנתאות#1",
+          "Details": "משכנתאות#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46195,
+      "subject": "מסירת דירה",
+      "descrption": "888",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "מסירת דירה#1",
+          "Details": "מסירת דירה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46196,
+      "subject": "משכנתאות",
+      "descrption": "777",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "משכנתאות#1",
+          "Details": "משכנתאות#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46199,
+      "subject": "חוזים ומפרטים",
+      "descrption": "2222",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46200,
+      "subject": "גביה ותקבולים",
+      "descrption": "aaaa bbbb",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46201,
+      "subject": "גביה ותקבולים",
+      "descrption": "cbg",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "query test 1 TEST1 user",
+          "Details": "query test 1",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "New message in the house chat",
+          "Details": "message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        },
+        {
+          "Notes": "message test user",
+          "Details": "query message",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "message from chat",
+          "Details": "user query",
+          "statusID": null,
+          "CntctDate": "2023-02-15T00:00:00.000Z",
+          "owner": 1
+        }
+      ]
+    },
+    {
+      "callID": 46202,
+      "subject": "חוזים ומפרטים",
+      "descrption": "xc",
+      "createDate": "2023-02-20T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-20T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46205,
+      "subject": "אתיקה",
+      "descrption": "בדיקה מהפוסטמן אנה DEV 14:44 ",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "אתיקה#1",
+          "Details": "אתיקה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "",
+          "Details": "",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "אבטחת מידע",
+          "Details": "אבטחת מידע",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "אבטחת מידע",
+          "Details": "אבטחת מידע",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        },
+        {
+          "Notes": "אבטחת מידע",
+          "Details": "אבטחת מידע",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46206,
+      "subject": "חוזים ומפרטים",
+      "descrption": "bbc",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46209,
+      "subject": "חוזים ומפרטים",
+      "descrption": "asd 123",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46214,
+      "subject": "חוזים ומפרטים",
+      "descrption": "121",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46215,
+      "subject": "חוזים ומפרטים",
+      "descrption": "aaa",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "חוזים ומפרטים#1",
+          "Details": "חוזים ומפרטים#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46216,
+      "subject": "אתיקה",
+      "descrption": "בדיקה מהפוסטמן אנה DEV 14:44 ",
+      "createDate": "2023-02-21T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "אתיקה#1",
+          "Details": "אתיקה#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-21T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    },
+    {
+      "callID": 46059,
+      "subject": "Elad & Aviv Test #1",
+      "descrption": "Elad & Aviv Test #1",
+      "createDate": "2023-02-13T00:00:00.000Z",
+      "ActivityCalls": [
+        {
+          "Notes": "Elad & Aviv Test #1#1",
+          "Details": "Elad & Aviv Test #1#2",
+          "statusID": -2,
+          "CntctDate": "2023-02-13T00:00:00.000Z",
+          "owner": 0
+        }
+      ]
+    }
+  ]
+}
